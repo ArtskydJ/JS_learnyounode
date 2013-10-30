@@ -5,6 +5,7 @@ http.get(process.argv[2], function(stream) {
 		string += data.toString();
 	});
 	stream.on("end", function(data) {
+		console.log(string.length);
 		console.log(string);
 	});
 });
