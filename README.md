@@ -8,8 +8,8 @@ My solutions to the nodeschool workshops.
 | [learnyounode][lyn]         | 13 / 13 |
 | [stream-adventure][sa]      | 12 / 15 |
 | [levelmeup][lmu]            |  7 / 12 |
-| [browserify-adventure][lmu] |  0 / 10 |
-| [count-to-6][lmu]           |  0 / 8  |
+| [count-to-6][ct6]           |  8 / 8  |
+| [browserify-adventure][ba]  |  0 / 10 |
 | [bytewiser][bw]             |  0 / 7  |
 
 [ns]:  http://nodeschool.io/
