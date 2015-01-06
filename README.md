@@ -7,7 +7,7 @@ My solutions to the nodeschool workshops.
 |:----------------------------|:-------:|
 | [learnyounode][lyn]         | 13 / 13 |
 | [stream-adventure][sa]      | 12 / 15 |
-| [levelmeup][lmu]            |  0 / 12 |
+| [levelmeup][lmu]            |  7 / 12 |
 | [browserify-adventure][lmu] |  0 / 10 |
 | [count-to-6][lmu]           |  0 / 8  |
 | [bytewiser][bw]             |  0 / 7  |
