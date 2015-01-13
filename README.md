@@ -8,7 +8,7 @@ My solutions to the [nodeschool](http://nodeschool.io/) workshops.
 | [learnyounode][lyn]         | 13 / 13 |
 | [count-to-6][ct6]           |  8 / 8  |
 | [functional-javascript][fj] |  8 / 8  |
-| [stream-adventure][sa]      | 12 / 15 |
+| [stream-adventure][sa]      | 15 / 15 |
 | [levelmeup][lmu]            |  7 / 12 |
 | [promise-it-wont-hurt][pwh] |  0 / 12 |
 | [browserify-adventure][ba]  |  0 / 10 |
