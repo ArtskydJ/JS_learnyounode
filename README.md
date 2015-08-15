@@ -10,6 +10,7 @@ My solutions to the [nodeschool](http://nodeschool.io/) workshops.
 | [functional-javascript][fj] |  8 / 8  |
 | [stream-adventure][sa]      | 15 / 15 |
 | [promise-it-wont-hurt][pwh] | 12 / 12 |
+| [regex-adventure][ra]       | 13 / 13 |
 | [levelmeup][lmu]            |  7 / 12 |
 | [browserify-adventure][ba]  |  0 / 10 |
 | [bytewiser][bw]             |  0 / 7  |
@@ -19,6 +20,7 @@ My solutions to the [nodeschool](http://nodeschool.io/) workshops.
 [fj]:  https://github.com/timoxley/functional-javascript-workshop
 [sa]:  https://github.com/substack/stream-adventure
 [pwh]: https://github.com/stevekane/promise-it-wont-hurt
+[ra]:  https://github.com/substack/regex-adventure
 [lmu]: https://github.com/rvagg/levelmeup
 [ba]:  https://github.com/substack/browserify-adventure
 [bw]:  https://www.github.com/maxogden/bytewiser
