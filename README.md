@@ -11,7 +11,7 @@ My solutions to the [nodeschool](http://nodeschool.io/) workshops.
 | [stream-adventure][sa]      | 15 / 15 |
 | [promise-it-wont-hurt][pwh] | 12 / 12 |
 | [regex-adventure][ra]       | 13 / 13 |
-| [levelmeup][lmu]            |  7 / 12 |
+| [levelmeup][lmu]            | 11 / 12 |
 | [browserify-adventure][ba]  |  0 / 10 |
 | [bytewiser][bw]             |  0 / 7  |
 

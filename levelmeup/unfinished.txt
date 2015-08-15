@@ -1,6 +1,1 @@
-04 - Basics: PUT
-05 - Basics: BATCH
-
-09 - Keywise
-10 - Short Scrabble Words
 11 - Sublevel

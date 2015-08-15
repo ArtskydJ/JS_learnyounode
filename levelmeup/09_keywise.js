@@ -1,22 +1,10 @@
 var Level = require('level')
+var db = Level(process.argv[2], { valueEncoding: 'json' })
 var obj = require(process.argv[3])
-var keys = Object.keys(obj)
 
-var actions = {
-	user: function (whom) {
-		return {type: 'put', key: whom, value: 'idk'}
-	},
-	repo: function (repo, whom) {
-		return {type: 'put', key: whom, value: repo}
-	}
-}
-
-Level(process.argv[2], {valueEncoding: 'json'}, function init(err, db) {
-	if (err) throw err
-	db.batch(
-		keys.map(function (key) {
-			var row = keys[key]
-			actions[row.type](row.name, row.user)
-		})
-	)
+var batch = Object.keys(obj).map(function (prop) {
+	var row = obj[prop]
+	var key = ((row.type === 'repo') ? row.user + '!' : '') + row.name
+	return { type: 'put', key: key, value: row }
 })
+db.batch(batch)
