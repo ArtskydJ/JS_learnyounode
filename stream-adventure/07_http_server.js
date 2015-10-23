@@ -1,4 +1,4 @@
-var upper = require('./upper.js')
+var upper = require('./helpers/upper.js')
 var http = require('http')
 
 var server = http.createServer(function (req, res) {

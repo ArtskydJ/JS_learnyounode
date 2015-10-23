@@ -11,7 +11,7 @@ function genreSplitter() {
 		var obj = JSON.parse(chunk.toString() || '{}');
 		if (obj.type === 'genre') {
 			var str = row && JSON.stringify(row)
-			str && this.push(str + '\n')
+			if (str) this.push(str + '\n')
 			row = { name: obj.name, books: [] }
 		} else if (obj.type === 'book') {
 			row.books.push(obj.name)

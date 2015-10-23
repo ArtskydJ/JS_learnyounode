@@ -1,5 +1,5 @@
 var trumpet = require('trumpet')
-var upper = require('./upper')
+var upper = require('./helpers/upper.js')
 var tr = trumpet()
 
 var stream = tr.select('.loud').createStream()

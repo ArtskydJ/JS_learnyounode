@@ -1,2 +1,2 @@
-var up = require('./upper.js')
+var up = require('./helpers/upper.js')
 process.stdin.pipe(up()).pipe(process.stdout)
