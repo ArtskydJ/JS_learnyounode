@@ -3,17 +3,17 @@ nodeschool-solutions
 
 My solutions to the [nodeschool](http://nodeschool.io/) workshops.
 
-| Workshop                    | Done    |
-|:----------------------------|:-------:|
-| [learnyounode][lyn]         | 13 / 13 |
-| [count-to-6][ct6]           |  8 / 8  |
-| [functional-javascript][fj] |  8 / 8  |
-| [stream-adventure][sa]      | 15 / 15 |
-| [promise-it-wont-hurt][pwh] | 12 / 12 |
-| [regex-adventure][ra]       | 13 / 13 |
-| [levelmeup][lmu]            | 11 / 12 |
-| [browserify-adventure][ba]  |  0 / 10 |
-| [bytewiser][bw]             |  0 / 7  |
+| Workshop                    | Progress |
+|:----------------------------|:---------|
+| [learnyounode][lyn]         | █████████████ |
+| [count-to-6][ct6]           | ████████ |
+| [functional-javascript][fj] | ████████ |
+| [stream-adventure][sa]      | ███████████████ |
+| [promise-it-wont-hurt][pwh] | ████████████ |
+| [regex-adventure][ra]       | █████████████ |
+| [levelmeup][lmu]            | ███████████▒ |
+| [browserify-adventure][ba]  | ▒▒▒▒▒▒▒▒▒▒ |
+| [bytewiser][bw]             | ▒▒▒▒▒▒▒ |
 
 [lyn]: https://github.com/rvagg/learnyounode
 [ct6]: https://github.com/domenic/count-to-6
