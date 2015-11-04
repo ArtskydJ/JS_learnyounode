@@ -12,7 +12,7 @@ My solutions to the [nodeschool](http://nodeschool.io/) workshops.
 | [promise-it-wont-hurt][pwh] | ████████████ |
 | [regex-adventure][ra]       | █████████████ |
 | [levelmeup][lmu]            | ███████████▒ |
-| [browserify-adventure][ba]  | ▒▒▒▒▒▒▒▒▒▒ |
+| [browserify-adventure][ba]  | ███████▒▒█ |
 | [bytewiser][bw]             | ▒▒▒▒▒▒▒ |
 
 [lyn]: https://github.com/rvagg/learnyounode
