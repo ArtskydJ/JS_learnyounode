@@ -13,7 +13,7 @@ My solutions to the [nodeschool](http://nodeschool.io/) workshops.
 | [regex-adventure][ra]       | █████████████ |
 | [levelmeup][lmu]            | ███████████▒ |
 | [browserify-adventure][ba]  | ███████▒▒█ |
-| [bytewiser][bw]             | ▒▒▒▒▒▒▒ |
+| [bytewiser][bw]             | ███████ |
 
 [lyn]: https://github.com/rvagg/learnyounode
 [ct6]: https://github.com/domenic/count-to-6
